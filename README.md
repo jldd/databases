@@ -1,10 +1,10 @@
-# DATABASES
+# BASES DE DATOS
 
 Bases de datos ejemplo.
 
 En este repositorio tenemos las bases de datos ejemplo que utilizo en mis cursos de programación.
 
-EUREKABANK
+BANCO FINANCIERO
 -------------------------------------------------------
 Base de datos de una institución financiera.
 
